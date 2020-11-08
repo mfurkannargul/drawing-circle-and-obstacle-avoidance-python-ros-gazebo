@@ -1,5 +1,8 @@
 # Drawing a Circle and Obstacle Avoidance with Python Script on ROS and Gazebo Simulation
 
+EXPLAINING YOUTUBE VIDEO: https://youtu.be/EKQq6qmxrFA 
+
+
 In the assignment, we were supposed to do a ROS Simulation on Gazebo by using Turtlebot or RosBot. The simulation requires a python script in a class file. In the python script, there must be Lider, Odometry and callbacks. It must publish a motion command to the robot. The motion commands asked are basically circling and obstacle avoidance. Lidar sensors are used for the obstacle avoidance. I carefully read the instructions and started working on it.
 
 - The first task that must be done was to install the ROS environment on Ubuntu so you must have already had a version of Ubuntu on your computer.
